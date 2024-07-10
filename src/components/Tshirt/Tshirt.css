@@ -1,0 +1,23 @@
+.tshirt-card{
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.tshirt-card img{
+    width: 100%;
+    border-radius: 10px;
+}
+.tshirt-details{
+    text-align: left;
+    margin-top: 20px;
+}
+.tshirt-price{
+    color: gold;
+    font-weight: 700;
+}
+.add-cart-btn{
+    background-color: blueviolet;
+    font-weight: bold;
+    padding: 8px auto;
+    color: white;
+}
